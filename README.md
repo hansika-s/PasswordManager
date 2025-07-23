@@ -24,4 +24,4 @@ A simple Python tool to securely store and manage passwords using Fernet encrypt
 - Commands: `python main.py commands`
 - Interactive shell: `python main.py repl`
 
-> On first run, there will be a prompted to set up a master password for authentication.
+> On first run, there will be a prompt to set up a master password for authentication.
